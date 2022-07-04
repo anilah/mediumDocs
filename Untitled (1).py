@@ -2,7 +2,7 @@
 
 %profile default
 
-%iam_role arn:aws:iam::*********:role/glueServiceRole
+%iam_role arn:aws:iam::*******:role/glueServiceRole
 
 import sys
 from awsglue.transforms import *
